@@ -8,7 +8,7 @@
     "object_detection_path": null
   },
   "loader_parameters": {
-    "target_suffix": ["_heatmap3"],
+    "target_suffix": ["_lesion-manual"],
     "roi_suffix": null,
     "bids_path": "testing_data/",
     "roi_params": {
@@ -18,11 +18,11 @@
     "contrast_params": {
       "random_seed": 1313,
       "training_validation": [
-        "T1w_mid"
+        "T2w"
       ],
       "balance": {},
       "testing": [
-        "T1w_mid"
+        "T2w"
       ],
       "center_test": []
     },
@@ -30,7 +30,7 @@
       "filter_empty_mask": false,
       "filter_empty_input": true
     },
-    "slice_axis": "sagittal",
+    "slice_axis": "axial",
     "split_method": "per_patient",
     "multichannel": false,
     "soft_input": false
@@ -124,6 +124,9 @@
       "translate": [0.03, 0.03],
       "scale": [0.98, 1]
     },
+    "CenterCrop":{
+       "size": [128, 128],
+       "preprocessing": true},
     "NumpyToTensor": {},
     "NormalizeInstance": {
       "applied_to": ["im"]
