@@ -18,11 +18,11 @@
     "contrast_params": {
       "random_seed": 1313,
       "training_validation": [
-        "T1w"
+        "T2w"
       ],
       "balance": {},
       "testing": [
-        "T1w"
+        "T2w"
       ],
       "center_test": []
     },
