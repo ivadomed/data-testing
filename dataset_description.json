@@ -2,6 +2,6 @@
   "BIDSVersion": "1.0.1", 
   "Name": "Spine_generic_example", 
   "Researcher": "Julien Cohen-Adad", 
-  "Study": "https://spine-generic.readthedocs.io/"
+  "Study": "https://spine-generic.readthedocs.io/",
   "Version": "URL to distriploy version of the dataset"
 }
