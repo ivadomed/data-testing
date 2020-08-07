@@ -1,0 +1,7 @@
+{
+  "BIDSVersion": "1.0.1", 
+  "Name": "Spine_generic_example", 
+  "Researcher": "Julien Cohen-Adad", 
+  "Study": "https://spine-generic.readthedocs.io/",
+  "Version": "https://github.com/spine-generic/data-multi-subject/archive/r20200722.zip"
+}

@@ -1,0 +1,2 @@
+,log_directory,best_training_dice,best_training_loss,best_validation_dice,best_validation_loss,test_dice
+0,testing_script-batch_size=2,-0.00046536312783568827,-0.00046536312783568827,-0.0012548019207002574,-0.0012548019207002574,0.0008960758197644724
