@@ -84,14 +84,19 @@
   "attention_unet": false,
   "mixup_bool": false,
   "metadata": null,
-  "testing_parameters": {
-    "binarize_prediction": false,
     "uncertainty": {
-      "epistemic": true,
-      "aleatoric": true,
-      "n_it": 2
-    }
-  },
+        "epistemic": true,
+        "aleatoric": true,
+        "n_it": 2
+    },
+    "postprocessing": {
+        "remove_noise": {"thr": -1},
+        "keep_largest": {},
+        "binarize_prediction": {"thr": 0.5},
+        "fill_holes": {},
+        "remove_small": {"unit": "vox", "thr": 3},
+        "uncertainty": {"thr": -1, "suffix": "_unc-vox.nii.gz"}
+    },
   "evaluation_parameters": {
     "targetSize": {
       "unit": "vox",
@@ -99,10 +104,6 @@
         20,
         100
       ]
-    },
-    "removeSmall": {
-      "unit": "vox",
-      "thr": 3
     },
     "overlap": {
       "unit": "vox",
