@@ -15,8 +15,8 @@ Light-weighted data for testing/tutorial
 * temporary\_results.csv: Used to test `ivadomed/scripts/compare_models.py`.
 
 ## Microscopy
-* microscopy_png: BIDS dataset folder containing microscopy data in PNG format (Microscopy BEP031 version 0.0.2)
-* `microscopy_png/sub-rat2` and `microscopy_png/sub-rat3`: BIDS subjects folders with SEM contrast. Original images and derivatives (see below) adapted from [ivadomed data_example_microscopy_sem repo](https://github.com/ivadomed/data_example_microscopy_sem/tree/r20201008) for testing purposes.
+* `microscopy_png`: BIDS dataset folder containing microscopy data in PNG format (Microscopy BEP031 version 0.0.2)
+* `microscopy_png/sub-rat2` and `microscopy_png/sub-rat3`: BIDS subjects folders with SEM contrast. Original images and derivatives (see below) from [ivadomed data_example_microscopy_sem repo](https://github.com/ivadomed/data_example_microscopy_sem/tree/r20201008) were adapted for testing purposes.
 * `microscopy_png/derivatives/labels/`: derivatives folder with the following labels:
   * `_seg-axon-manual`: axon segmentation
   * `_seg-myelin-manual`: myelin segmentation
