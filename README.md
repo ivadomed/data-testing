@@ -11,6 +11,7 @@ Light-weighted data for testing/tutorial
   * `_labels-disc-manual`: dummy label (single voxel), which is supposed to represent disc label. WARNING: this is *not* an actual label that represent the anatomy, but is only here for the purpose of testing the workflow of `ivadomed` codebase.
 * bounding\_box.json: dictionary to test a specific function from `ivadomed/scripts/bounding_box.py`.
 * dataset\_description.json: this file is needed to described the dataset.
+* df\_ref.csv: Used to test a specific function from `ivadomed/loader/utils.py`.
 * participants.csv: table with subject name and potential metadata.
 * temporary\_results.csv: Used to test `ivadomed/scripts/compare_models.py`.
 
@@ -20,3 +21,4 @@ Light-weighted data for testing/tutorial
 * `microscopy_png/derivatives/labels/`: derivatives folder with the following labels:
   * `_seg-axon-manual`: axon segmentation
   * `_seg-myelin-manual`: myelin segmentation
+* `microscopy_png/df\_ref.csv`: Used to test a specific function from `ivadomed/loader/utils.py`.
