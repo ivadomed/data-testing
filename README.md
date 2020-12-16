@@ -21,4 +21,4 @@ Light-weighted data for testing/tutorial
 * `microscopy_png/derivatives/labels/`: derivatives folder with the following labels:
   * `_seg-axon-manual`: axon segmentation
   * `_seg-myelin-manual`: myelin segmentation
-* `microscopy_png/df\_ref.csv`: Used to test a specific function from `ivadomed/loader/utils.py`.
+* `microscopy_png/df_ref.csv`: Used to test a specific function from `ivadomed/loader/utils.py`.
