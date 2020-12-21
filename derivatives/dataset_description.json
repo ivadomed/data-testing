@@ -1,0 +1,5 @@
+{
+    "Name": "Example derivative dataset",
+    "BIDSVersion": "1.0.2",
+    "PipelineDescription": {"Name": "Example derivative pipeline"}
+}
