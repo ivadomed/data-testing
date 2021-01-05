@@ -1,2 +1,4 @@
 participant_id	sex	age	first_name	last_name	date_of_birth	date_of_scan	pathology	data_id	institution_id
-sub-unf01	unknown	-	unknown	unknown	-	unknwon	unknwon	unknown	unknown
+sub-unf01	unknown	-	unknown	unknown	-	unknown	unknown	unknown	unknown
+sub-unf02	unknown	-	unknown	unknown	-	unknown	unknown	unknown	unknown
+sub-unf03	unknown	-	unknown	unknown	-	unknown	unknown	unknown	unknown
