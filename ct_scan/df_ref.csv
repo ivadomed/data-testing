@@ -1,0 +1,3 @@
+filename,datatype,extension,subject,suffix,participant_id,age,data_id,date_of_birth,date_of_scan,first_name,institution_id,last_name,pathology,sex
+sub-spleen2_ct.nii.gz,ct,.nii.gz,spleen2,ct,sub-spleen2,-,unknown,-,unknown,unknown,unknown,unknown,unknown,unknown
+sub-spleen2_ct_seg-manual.nii.gz,,,,,,,,,,,,,,
