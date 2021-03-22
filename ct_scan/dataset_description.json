@@ -1,0 +1,9 @@
+{
+  "BIDSVersion": "1.5.0",
+  "Name": "Spleen",
+  "Description": "Spleen Segmentation",
+  "Reference": "Memorial Sloan Kettering Cancer Center",
+  "Version":"1.0 06/08/2018, available at http://medicaldecathlon.com/, spleen2 image and label cropped from original",
+  "Study": "Simpson, A. L., Antonelli, M., Bakas, S., Bilello, M., Farahani, K., Van Ginneken, B., ... & Cardoso, M. J. (2019). A large annotated medical image dataset for the development and evaluation of segmentation algorithms. arXiv preprint arXiv:1902.09063",
+  "Licence":"CC-BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+}
