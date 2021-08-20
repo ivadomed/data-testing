@@ -1,6 +1,6 @@
 {
-    "Name": "data_example_microscopy_sem",
-    "BIDSVersion":"1.4.0",
-    "Version": "https://github.com/ivadomed/data_example_microscopy_sem/archive/r20201008.zip",
+    "Name": "data_axondeepseg_sem",
+    "BIDSVersion":"1.6.0",
+    "Version": "https://github.com/axondeepseg/data_axondeepseg_sem/archive/r20210715.zip",
     "License": "MIT"
 }
