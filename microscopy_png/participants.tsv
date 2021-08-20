@@ -1,3 +1,3 @@
-participant_id	testParticipant
-sub-rat2	test-rat-2
-sub-rat3	test-rat-3
+participant_id	testParticipant	species
+sub-rat2	test-rat-2	rattus norvegicus
+sub-rat3	test-rat-3	rattus norvegicus
