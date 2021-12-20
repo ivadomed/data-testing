@@ -1,6 +1,6 @@
 {
-    "PixelSize": [0.1, 0.1],
-    "PixelSizeUnits": "um",
+    "PixelSize": [100, 100],
+    "PixelSizeUnits": "nm",
     "BodyPart": "CSPINE",
     "SampleFixation": "3% paraformaldehyde, 3% glutaraldehyde",
     "SampleEnvironment": "ex vivo"
