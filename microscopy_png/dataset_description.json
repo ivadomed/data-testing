@@ -1,6 +1,6 @@
 {
     "Name": "data_axondeepseg_sem",
-    "BIDSVersion":"1.6.0",
-    "Version": "https://github.com/axondeepseg/data_axondeepseg_sem/archive/r20210715.zip",
+    "BIDSVersion":"1.7.0",
+    "Version": "https://github.com/axondeepseg/data_axondeepseg_sem/archive/r20211130.zip",
     "License": "MIT"
 }
