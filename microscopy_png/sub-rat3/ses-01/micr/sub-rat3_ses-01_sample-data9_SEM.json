@@ -1,7 +1,7 @@
 {
     "PixelSize": [0.1, 0.2],
-    "FieldOfView": [76, 152],
+    "PixelSizeUnits": "um",
     "BodyPart": "CSPINE",
     "SampleFixation": "3% paraformaldehyde, 3% glutaraldehyde",
-    "Environment": "exvivo"
+    "SampleEnvironment": "ex vivo"
 }
