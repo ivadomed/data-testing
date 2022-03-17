@@ -1,0 +1,13 @@
+sample_id	participant_id	sample_type
+sample-8gray	sub-png	technical sample
+sample-8rgb	sub-png	technical sample
+sample-8rgba	sub-png	technical sample
+sample-16gray	sub-png	technical sample
+sample-16rgb	sub-png	technical sample
+sample-16rgba	sub-png	technical sample
+sample-8gray	sub-tif	technical sample
+sample-8rgb	sub-tif	technical sample
+sample-8rgba	sub-tif	technical sample
+sample-16gray	sub-tif	technical sample
+sample-16rgb	sub-tif	technical sample
+sample-16rgba	sub-tif	technical sample
