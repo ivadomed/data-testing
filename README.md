@@ -22,6 +22,7 @@ Light-weighted data for testing/tutorial
   * `_seg-axon-manual`: axon segmentation
   * `_seg-myelin-manual`: myelin segmentation
 * `microscopy_png/df_ref.csv`: Used to test a specific function from `ivadomed/loader/utils.py`.
+* `data_test_png_tif`: BIDS dataset folder containing microscopy data to test the loading of PNG/TIF, 8/16 bits and Grayscale/RGB/RGBA formats. 256x256 crop extracted and converted to each format from the original image `sub-rat8_sample-V915_SEM.png` from the [AxonDeepSeg data_axondeepseg_sem repo](https://github.com/axondeepseg/data_axondeepseg_sem/tree/r20211130).
 
 ## CT-scan
 * `ct_scan`: BIDS subject folder organized according to the file naming and structure of CT-scan BEP024 version 0.0.0 as of 2021-03-22. Original image (`Task09_Spleen.tar/imagesTr/spleen2.nii.gz`) and derivative (`Task09_Spleen.tar/labelsTr/spleen2.nii.gz`) from Simpson, A. L., Antonelli, M., Bakas, S., Bilello, M., Farahani, K., Van Ginneken, B., ... & Cardoso, M. J. (2019). A large annotated medical image dataset for the development and evaluation of segmentation algorithms. arXiv preprint arXiv:1902.09063, used under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license. Data available at [Medical Segmentation Decathlon](http://medicaldecathlon.com/). Images were cropped with the following bounding box: x=[(66, 230], y=[114, 280], z=[64, 98].
